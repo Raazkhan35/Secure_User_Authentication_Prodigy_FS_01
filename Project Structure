@@ -1,0 +1,8 @@
+/secure-auth
+├── app.py
+├── templates
+│   ├── login.html
+│   ├── register.html
+│   └── home.html
+└── static
+    └── style.css
